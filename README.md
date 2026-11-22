@@ -1,2 +1,1 @@
-# veteran-support-platform
 
