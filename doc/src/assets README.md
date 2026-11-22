@@ -3,7 +3,6 @@ Veteran Support Platform
 IBM watsonx Challenge Submission
 Created by Latrice Threats
 This project helps veterans access healthcare, benefits, housing, employment, and support services using IBM watsonx Assistant and IBM watsonx Orchestrate.
-
 Veteran User
      │
      ▼
@@ -14,8 +13,9 @@ IBM watsonx Orchestrate
      │
  ┌───┼────┬────┬────┬────┐
  ▼   ▼    ▼    ▼    ▼
-VA Housing Jobs Education Crisis
+VA  Housing Jobs Education Crisis
 Services Resources Programs Support
+
 
 Veteran Support Platform
 If by "look overview" you mean the project overview section, here's a stronger version you can use in your README and submission:
@@ -41,4 +41,23 @@ Intended Impact
 
 The goal of the Veteran Support Platform is to improve the veteran experience by reducing confusion, shortening the time required to find assistance, and providing a more accessible pathway to essential services.
 
+IBM Technologies Used
+IBM watsonx Assistant
+Provides the conversational interface for veterans. The assistant answers questions, collects user needs, and guides veterans toward available resources.
 
+IBM watsonx Orchestrate
+Automates workflows by routing veteran requests to the appropriate support services, including healthcare, housing, employment, education, and benefits assistance.
+
+Bob AI Agent
+Built using IBM's Bee Agent Framework, Bob serves as the intelligent assistant that coordinates interactions between users and automated workflows.
+
+Problem Statement
+Veterans often face fragmented systems when seeking healthcare, benefits, housing, employment, educational opportunities, and crisis support. Navigating multiple agencies and resources can create confusion, delays, and barriers to receiving assistance.
+
+Future Enhancements
+VA systems integration
+Appointment scheduling
+Personalized veteran dashboards
+Mobile application support
+AI-powered resource recommendations
+Secure document management
